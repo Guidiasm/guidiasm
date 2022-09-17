@@ -22,6 +22,6 @@ Sou Estudante de Progamação focado em criar uma carreira promissora
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidiasm&show_icons=true&theme=midnight-purple&show_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=guidiasm&show_icons=true&show_icons=true&theme=midnight-purple&show_private=true" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidiasm&show_icons=true&theme=midnight-purple&show_private=true"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=guidiasm&show_icons=true&show_icons=true&theme=midnight-purple&show_private=true" />
 </div>
